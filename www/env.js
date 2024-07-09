@@ -1,3 +1,3 @@
-export const domain = 'mickshanny.us.auth0.com'
-export const clientId = 'luwNBP378EfKtXGGgxJj9T2kNZ1A562I'
-export const audience = 'http://Sandbox.com'
+export const domain = 'dev - cucsliboqrmpiibf.us.auth0.com'
+export const clientId = '9IHCopOWsypgrZC9Nniolr8lpzQ6Xvig'
+export const audience = 'https://GregsList.com'

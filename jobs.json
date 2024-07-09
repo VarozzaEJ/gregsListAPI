@@ -1,0 +1,212 @@
+[
+  {
+    "_id": {
+      "$oid": "6476d752403259fa173a74ba"
+    },
+    "company": "SuperDuperCoolPlace",
+    "jobTitle": "Software Developer",
+    "hours": 40,
+    "rate": 10000,
+    "description": "Are you Super Duper Cool enough?",
+    "creatorId": {
+      "$oid": "6615af31fcc19dedd08b642e"
+    },
+    "createdAt": "2023-05-31T05:12:50.403Z",
+    "updatedAt": "2023-05-31T05:12:50.403Z"
+  },
+  {
+    "_id": {
+      "$oid": "6476e82a403259fa173a75ae"
+    },
+    "company": "SuperDuperCoolPlace",
+    "jobTitle": "Software Developer",
+    "hours": 40,
+    "rate": 100,
+    "description": "Are you Super Duper Cool enough?",
+    "creatorId": {
+      "$oid": "6615af316e246bc9b496d6b2"
+    },
+    "createdAt": "2023-05-31T06:24:42.302Z",
+    "updatedAt": "2023-05-31T06:24:42.302Z"
+  },
+  {
+    "_id": {
+      "$oid": "64b8a60e5eb9e1626542bb45"
+    },
+    "company": "Lob Jobs",
+    "jobTitle": "Lobster Caretaker",
+    "hours": 40,
+    "rate": 85000,
+    "description": "Feed Lil' Jeremy hot dogs🦞🌭",
+    "creatorId": {
+      "$oid": "6615af313b8dfc994a0e44b9"
+    },
+    "createdAt": "2023-07-20T03:12:14.592Z",
+    "updatedAt": "2023-07-20T04:19:37.167Z"
+  },
+  {
+    "_id": {
+      "$oid": "64b8a68a5eb9e1626542bb51"
+    },
+    "company": "Code Abode",
+    "jobTitle": "Listener",
+    "hours": 40,
+    "rate": 100000,
+    "description": "Watch the AppState 👀",
+    "creatorId": {
+      "$oid": "6615af310c551fceca365392"
+    },
+    "createdAt": "2023-07-20T03:14:18.419Z",
+    "updatedAt": "2023-07-20T03:14:18.419Z"
+  },
+  {
+    "_id": {
+      "$oid": "65023a7a143fc54c2351915a"
+    },
+    "company": "CodeWorkers",
+    "jobTitle": "Ping Pong Table",
+    "hours": 15,
+    "rate": 100,
+    "description": "You must act as the ping pong table.",
+    "creatorId": {
+      "$oid": "6615af3118b6519506ebd7e1"
+    },
+    "createdAt": "2023-09-13T22:40:58.713Z",
+    "updatedAt": "2023-09-13T22:40:58.713Z"
+  },
+  {
+    "_id": {
+      "$oid": "65023abc143fc54c2351917f"
+    },
+    "company": "Home Workers",
+    "jobTitle": "Rubber Duck",
+    "hours": 100,
+    "rate": 100,
+    "description": "You must be the rubber duck on my desk indefinitely, or until I write 0 bugs in my code\n",
+    "creatorId": {
+      "$oid": "6615af31b2a02d6c2a05be55"
+    },
+    "createdAt": "2023-09-13T22:42:05.000Z",
+    "updatedAt": "2023-09-13T22:42:05.000Z"
+  },
+  {
+    "_id": {
+      "$oid": "65023b0c143fc54c23519195"
+    },
+    "company": "PingWorks",
+    "jobTitle": "Ping Pong Contestant",
+    "hours": 50,
+    "rate": 10000,
+    "description": "I need someone that is willing to play me in ping pong every day. We have to play until I win. If you throw intentionally I count it as a loss",
+    "creatorId": {
+      "$oid": "6615af31b42adbbe9c069cc9"
+    },
+    "createdAt": "2023-09-13T22:43:24.746Z",
+    "updatedAt": "2023-09-13T22:43:24.746Z"
+  },
+  {
+    "_id": {
+      "$oid": "65023b3d143fc54c235191a3"
+    },
+    "company": "CodeWorkers",
+    "jobTitle": "Debugger",
+    "hours": 100,
+    "rate": 5,
+    "description": "You re not allowed to leave until you debug everything in my app! Thank you!",
+    "creatorId": {
+      "$oid": "6615af3133fcec640d69c0f0"
+    },
+    "createdAt": "2023-09-13T22:44:13.928Z",
+    "updatedAt": "2023-09-13T22:44:13.928Z"
+  },
+  {
+    "_id": {
+      "$oid": "6525ca8e32075d75427711fe"
+    },
+    "company": "Not A Clothing Company",
+    "jobTitle": "Jumper",
+    "hours": 9,
+    "rate": 9,
+    "description": "Jump for Joy!",
+    "creatorId": {
+      "$oid": "6615af31b42adbbe9c069cc9"
+    },
+    "createdAt": "2023-10-10T22:05:02.601Z",
+    "updatedAt": "2023-10-10T22:05:02.601Z"
+  },
+  {
+    "_id": {
+      "$oid": "6525cb2e32075d754277125f"
+    },
+    "company": "Carrots Inc",
+    "jobTitle": "Mascot",
+    "hours": 4,
+    "rate": 40,
+    "description": "Be a mascot!",
+    "creatorId": {
+      "$oid": "6615af3138fa4b9dafbd8bf0"
+    },
+    "createdAt": "2023-10-10T22:07:42.450Z",
+    "updatedAt": "2023-10-10T22:07:42.450Z"
+  },
+  {
+    "_id": {
+      "$oid": "660c77e110c55f16a4e9b2ed"
+    },
+    "company": "Anita B Learnin",
+    "jobTitle": "Person",
+    "hours": 40,
+    "rate": 1,
+    "description": "Requirements: Be a person",
+    "creatorId": {
+      "$oid": "6615af319be0007ccd4b7f95"
+    },
+    "createdAt": "2024-04-02T21:25:53.699Z",
+    "updatedAt": "2024-04-02T21:25:53.699Z"
+  },
+  {
+    "_id": {
+      "$oid": "660c783910c55f16a4e9b2fc"
+    },
+    "company": "Krusty Krab",
+    "jobTitle": "Burger flipper",
+    "hours": 50,
+    "rate": 10,
+    "description": "We need you to flip them burgers. Plz, cuz everyone else left...",
+    "creatorId": {
+      "$oid": "6615af314d61cc65ae5b9e37"
+    },
+    "createdAt": "2024-04-02T21:27:21.814Z",
+    "updatedAt": "2024-04-02T21:27:21.814Z"
+  },
+  {
+    "_id": {
+      "$oid": "660cdfe710c55f16a4e9b773"
+    },
+    "company": "Coding",
+    "jobTitle": "Coder",
+    "hours": 40,
+    "rate": 35,
+    "description": "Code some more",
+    "creatorId": {
+      "$oid": "6615af3174bda64f01441c63"
+    },
+    "createdAt": "2024-04-03T04:49:43.195Z",
+    "updatedAt": "2024-04-03T04:49:43.195Z"
+  },
+  {
+    "_id": {
+      "$oid": "660ce0a910c55f16a4e9b798"
+    },
+    "company": "The Code Palace",
+    "jobTitle": "Royal Developer",
+    "hours": 40,
+    "rate": 300,
+    "description": "Code like a king",
+    "creatorId": {
+      "$oid": "6615af318cd3d77a0e10457d"
+    },
+    "createdAt": "2024-04-03T04:52:57.343Z",
+    "updatedAt": "2024-04-03T04:52:57.343Z"
+  }
+]

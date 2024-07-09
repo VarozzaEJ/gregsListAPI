@@ -19,6 +19,11 @@ class HousesService {
             results: houses
         }
     }
+    async createHouse(houseData) {
+        const house = await dbContext.Houses.create(houseData)
+        await house.populate('creator', '-email')
+        return house
+    }
 }
 
 export const housesService = new HousesService()

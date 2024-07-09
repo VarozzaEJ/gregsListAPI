@@ -50,6 +50,10 @@ export class HousesController extends BaseController {
             const houseData = request.body
             const user = request.userInfo
             console.log('Creating House', user, houseData);
+            houseData.creatorId = user.id
+            console.log('Here is the creator Id', houseData.creatorId);
+            const house = await housesService.createHouse(houseData)
+            response.send(house)
         } catch (error) {
             next(error)
         }
